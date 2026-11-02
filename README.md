@@ -31,7 +31,7 @@ The script `reproduce_results.py` generates the paper tables (Table 1–Table 4)
 
 This repository reproduces the published empirical results from the anonymized replication dataset.
 
-The anonymized dataset already contains the final lifecycle monitoring indicators (L1–L5) derived from the production pipeline. Consequently, the replication scripts reproduce the published tables and summary statistics rather than recalculating the indicators from raw procurement records. The public replication package therefore supports results reproducibility rather than full reconstruction of the original production pipeline.
+The anonymized dataset already contains the final lifecycle monitoring indicators (L1–L5) derived from the production pipeline. Consequently, the replication scripts reproduce the published tables and summary statistics rather than recalculating the indicators from raw procurement records. The public replication package therefore supports results reproducibility rather than full reconstruction of the original production pipeline. The objective of the repository is to reproduce the published statistical findings rather than reconstruct the original administrative data processing workflow.
 
 The full lifecycle reconstruction and indicator-generation pipeline relies on administrative procurement records that are not distributed as part of the public replication package.
 
