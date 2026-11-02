@@ -1,4 +1,4 @@
-<img width="4032" height="1482" alt="image" src="https://github.com/user-attachments/assets/6996577b-10ca-476d-bf01-9e65d24ebf6a" /># Can Contract Lifecycle Data Support the Monitoring Objectives of the Proposed EU Public Procurement Act? Evidence from Greece
+# Can Contract Lifecycle Data Support the Monitoring Objectives of the Proposed EU Public Procurement Act? Evidence from Greece
 
 ## Abstract
 This repository contains the replication code for the empirical findings presented in the paper. The associated anonymized replication dataset is archived separately on Zenodo. Together, the dataset and scripts allow reproduction of the published tables and summary statistics.
