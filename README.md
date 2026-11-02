@@ -1,4 +1,4 @@
-# Can Contract Lifecycle Data Support the Monitoring Objectives of the Proposed EU Public Procurement Act? Evidence from Greece
+<img width="4032" height="1482" alt="image" src="https://github.com/user-attachments/assets/6996577b-10ca-476d-bf01-9e65d24ebf6a" /># Can Contract Lifecycle Data Support the Monitoring Objectives of the Proposed EU Public Procurement Act? Evidence from Greece
 
 ## Abstract
 This repository contains the replication code for the empirical findings presented in the paper. The associated anonymized replication dataset is archived separately on Zenodo. Together, the dataset and scripts allow reproduction of the published tables and summary statistics.
@@ -8,6 +8,16 @@ This repository contains the replication code for the empirical findings present
 - `dataset_dictionary.md`: Definitions of dataset variables.
 - `requirements.txt`: Python package requirements.
 - `LICENSE`: Repository license.
+
+## Data Availability
+
+The anonymized replication dataset is archived on Zenodo:
+
+https://doi.org/10.5281/zenodo.23880521
+
+The dataset contains 206,143 direct-award contract lifecycles issued by 123 contracting authorities in the Greek healthcare sector during 2019–2024.
+
+The public dataset supports reproduction of the published empirical findings rather than reconstruction of the original production pipeline.
 
 ## Data
 The anonymized replication dataset is distributed separately through Zenodo.
@@ -49,4 +59,4 @@ If you use the code or dataset, please cite the associated manuscript:
 
 Fountoukidis, I., Antoniou, I., Varsakelis N., Can Contract Lifecycle Data Support the Monitoring Objectives of the Proposed EU Public Procurement Act? Evidence from Greece. Working paper.
 
-A formal citation and DOI will be added upon publication.
+Dataset DOI: 10.5281/zenodo.23880521
