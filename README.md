@@ -47,6 +47,6 @@ The full lifecycle reconstruction and indicator-generation pipeline relies on ad
 ## Citation
 If you use the code or dataset, please cite the associated manuscript:
 
-Fountoukidis, I., Antoniou, I., Varsakelis N., Can Contract Lifecycle Data Support the Monitoring Objectives of the Proposed EU Public Procurement Act? Evidence from Greece. Manuscript in preparation.
+Fountoukidis, I., Antoniou, I., Varsakelis N., Can Contract Lifecycle Data Support the Monitoring Objectives of the Proposed EU Public Procurement Act? Evidence from Greece. Working paper.
 
 A formal citation and DOI will be added upon publication.
